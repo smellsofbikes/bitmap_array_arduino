@@ -41,4 +41,5 @@ void print_bitmap(uint8_t bitmap)
     }
     Serial.println();
   }
+  Serial.println();
 }
